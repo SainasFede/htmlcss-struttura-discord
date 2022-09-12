@@ -9,6 +9,9 @@ header{
   height: 400px;
   /*altezza da togliere*/
 }
+main{
+  height: 2300px;
+}
 
 .menu{
   max-width: 1180px;
@@ -36,13 +39,10 @@ header{
   background-color: lightcoral;
   border: 1px solid black;
 }
-
 .container{
-  max-width: 1180px;
-  margin: 0 auto;
   background-color: lightgray;
-  /*altezza da togliere*/
-  height: 2000px;
+  height: 500px;
+  border: 1px solid black;
 }
 
 .riquadro{
@@ -70,12 +70,14 @@ header{
 .immagine{
   width: 500px;
   height: 300px;
+  /*altezza da togliere*/
   background-color: brown;
 }
 
 .testo{
   width: 500px;
   height: 300px;
+  /*altezza da togliere*/
   background-color: orange;
 }
 
@@ -94,6 +96,7 @@ footer{
   max-width: 1180px;
   background-color: lightsalmon;
   height: 400px;
+  /*altezza da togliere*/
   margin: 0 auto;
   border-bottom: 5px solid yellow;
 }
@@ -103,6 +106,7 @@ footer{
   justify-content: space-between;
   max-width: 1180px;
   height: 80px;
+  /*altezza da togliere*/
   background-color: black;
   border: 2px solid white;
   margin: 0 auto;
@@ -112,6 +116,7 @@ footer{
 .colonne-liste{
   width: 180px;
   height: 200px;
+  /*altezza da togliere*/
   background-color: greenyellow;
   margin: 20px 20px;
 
