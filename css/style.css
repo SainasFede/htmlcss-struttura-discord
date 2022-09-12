@@ -7,6 +7,7 @@
 header{
   background-color: blue;
   height: 400px;
+  /*altezza da togliere*/
 }
 
 .menu{
@@ -14,6 +15,7 @@ header{
   margin: 0 auto;
   background-color: lightskyblue;
   height: 50px;
+  /*altezza da togliere*/
   display: flex;
   justify-content: space-between;
 }
@@ -23,12 +25,14 @@ header{
   margin: 20px auto;
   background-color: lightblue;
   height: 200px;
+  /*altezza da togliere*/
   text-align: center;
 }
 
 .intro{
   width: 100px;
   height: 30px;
+  /*altezza da togliere*/
   background-color: lightcoral;
   border: 1px solid black;
 }
